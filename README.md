@@ -1,8 +1,7 @@
 #### Portfolio
 -----
 
-#### Front End Development
-HTML, CSS, Bootstrap
+#### Front End Development: HTML, CSS, Bootstrap
 
 
 -------
