@@ -23,13 +23,6 @@ Azure SQL Database - Places Traveled: https://portal.azure.com/#@scapratechtonic
 
 -------
 
-#### Back End Development: C#, Ruby On Rails, PHP, APIs
-
-
-
-
--------
-
 
 
 
